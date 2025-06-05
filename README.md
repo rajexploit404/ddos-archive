@@ -59,3 +59,4 @@ Many of these methods are already well-known in underground circles — this rep
 ---
 
 > ❤️ Stay ethical. Stay curious. Stay safe.
+> This tools safe from botnet zombie or malware so don't wory about that.
