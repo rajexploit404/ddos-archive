@@ -1,0 +1,3 @@
+1.1.1.1 53
+example list of replector, must be active or open port
+Note: random port

@@ -1,0 +1,1 @@
+mix amp must be have list of ntp.txt dns and another amplification list
